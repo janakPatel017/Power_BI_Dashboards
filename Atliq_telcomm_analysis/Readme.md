@@ -1,6 +1,6 @@
 <h1>AtliQ Telcomm 5G Before/After Analysis</h1>
 
-![COMPANY LOGO]https://github.com/janakPatel017/Power_BI_Dashboards/blob/main/Atliq_telcomm_analysis/one.png
+![COMPANY LOGO](https://github.com/janakPatel017/Power_BI_Dashboards/blob/main/Atliq_telcomm_analysis/one.png)
 
 ## Objective
 
